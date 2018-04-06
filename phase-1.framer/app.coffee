@@ -1,3 +1,29 @@
+# Colors
+green = "#81BC2E"
+gray = "#7D96A3"
+
+# Page Position Initialize
+page_email.x = 320
+page_link.x = Align.center
+
+# Page States
+page_link.states =
+	right:
+		x: 320
+	
+	left:
+		x: Align.center
+
+page_email.states =
+	right:
+		x: 320
+	
+	left:
+		x: Align.center
+
+page_email.states.switch("right")
+
+# Email Tab Interactions
 item_1.opacity = 0
 item_2.opacity = 0
 to_list.originY = 0

@@ -1,7 +1,7 @@
 {
   "orientation" : 0,
   "updateDelay" : 0.29999999999999999,
-  "designModeSelected" : 1,
+  "designModeSelected" : 0,
   "cachedDeviceHeight" : 568,
   "contentScale" : 1,
   "cachedDeviceWidth" : 320,
@@ -9,9 +9,9 @@
   "deviceType" : "apple-iphone-se-space-gray",
   "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
-    "Filters" : false
+
   },
-  "projectId" : "EF206CC9-CE15-4D18-B915-FCE1EDF17148",
+  "projectId" : "957C01BF-4C6E-4903-B5E1-69B11736775E",
   "deviceOrientation" : 0,
   "selectedHand" : "",
   "showBezel" : 0,
